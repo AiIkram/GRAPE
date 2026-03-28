@@ -1,0 +1,3 @@
+model: VesselGAT
+type: human
+notes: 3-layer GAT with skip connections, mean+max pooling, weighted CE for class imbalance
